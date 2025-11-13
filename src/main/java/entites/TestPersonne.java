@@ -19,9 +19,19 @@ public class TestPersonne {
 
         Personne pers2 = new Personne("tarte","paule",adr2);
 
-    System.out.println(pers1.nom+" "+pers2.nom);
+
+        pers1.afficher();
+        pers2.modifierNom("Dupond");
+        pers2.afficher();
 
 
-    }
+        System.out.println(pers2.nom);
+        System.out.println(pers2.prenom);
+        System.out.println(pers2.adresse);
+        pers2.modifierAdresse(adr1);
+
+
+
+            }
 
 }
