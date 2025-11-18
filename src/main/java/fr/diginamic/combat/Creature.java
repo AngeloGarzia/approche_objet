@@ -1,14 +1,19 @@
 package fr.diginamic.combat;
-
+import java.util.Random;
 public abstract class Creature {
-    private String nomCreature;
-    private String typeCreature;
+    protected String nomCreature;
+    protected int forceCreature;
+    protected int pointSanteCreature;
+    protected int pointScoreCreature;
+    protected Random randCreature =new Random();
+
+
+
+    public String getNomCreature() {
+        return nomCreature;
+    }
+//
+
 
 }
 
-public class loup extends Creature{
-
-
-
-
-        }
