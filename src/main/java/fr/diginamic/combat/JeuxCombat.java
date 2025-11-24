@@ -56,7 +56,7 @@ public class JeuxCombat {
                                                 monEnnemi=monGoblin;
                                         tourCombat();
                                         break;
-                                    case 3:
+                                    default:
                                         Troll monTroll=new Troll();
                                         System.out.println("Votre ennemi est un Troll avec "+monTroll.pointSanteCreature+" de points santé"+
                                                 " et "+monTroll.forceCreature+" de force");
