@@ -5,14 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13468fe2-15bc-4c7a-9567-41dd7b8345f2" name="Changes" comment="tp3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/diginamic/combat/Gobelin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/diginamic/combat/JeuxCombat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/diginamic/combat/Loup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/diginamic/combat/Potion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/diginamic/combat/Troll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chaines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chaines/TestStringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dates/TestCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dates/TestDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Listes/CreationListe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Listes/FusionListe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Listes/TestListeInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Listes/TestListeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Listes/TestVilles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Listes/Ville.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Maps/ComptagePaysParContinent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Maps/CreationEtManipulationMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Maps/CreationMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Maps/FusionMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Maps/MapVilles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Maps/Pays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/automates/JeuDeLaVie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/automates/Methode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entites2/Cercle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entites2/ObjetGeometrique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entites2/Pays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entites2/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entites2/TestEqualsPays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entites2/TestObjetGeometrique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fichier/CreerFichier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fichier/LectureFichier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fichier/Ville.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fichier/open-food-facts.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fichier/recensement.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tri/TestTri.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/diginamic/combat/Creature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/diginamic/combat/Creature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/diginamic/combat/Personnage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/diginamic/combat/Personnage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/diginamic/combat/JeuxCombat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/diginamic/combat/JeuxCombat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +47,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -54,35 +80,59 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ComptagePaysParContinent.executor": "Run",
+    "Application.CreationEtManipulationMap.executor": "Run",
+    "Application.CreationListe.executor": "Run",
+    "Application.CreationMap.executor": "Run",
+    "Application.CreerFichier.executor": "Run",
+    "Application.FusionListe.executor": "Run",
+    "Application.FusionMap.executor": "Run",
+    "Application.JeuDeLaVie.executor": "Run",
     "Application.JeuxCombat.executor": "Run",
+    "Application.LectureFichier.executor": "Run",
     "Application.ManipulationChaine.executor": "Run",
+    "Application.MapVilles.executor": "Run",
     "Application.TestBanque.executor": "Run",
+    "Application.TestCalendar.executor": "Run",
+    "Application.TestDates.executor": "Run",
+    "Application.TestEqualsPays.executor": "Run",
+    "Application.TestListeInt.executor": "Run",
+    "Application.TestListeString.executor": "Run",
     "Application.TestMaison.executor": "Run",
     "Application.TestMethodeStatic.executor": "Run",
     "Application.TestMoyenne.executor": "Run",
+    "Application.TestObjetGeometrique.executor": "Run",
     "Application.TestOperation.executor": "Run",
     "Application.TestOperations.executor": "Run",
     "Application.TestPersonne.executor": "Run",
+    "Application.TestStringBuilder.executor": "Run",
     "Application.TestTheatre.executor": "Run",
+    "Application.TestTri.executor": "Run",
+    "Application.TestVilles.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/dell/IdeaProjects/approche-objet/src/main/java/org/example/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/dell/IdeaProjects/approche-objet/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "preferences.sourceCode.EditorConfig"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dell\IdeaProjects\approche-objet\src\main\java\fichier" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="fr.diginamic.combat" />
       <recent name="fr.diginamic.banque.entites" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JeuxCombat">
-    <configuration name="JeuxCombat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fr.diginamic.combat.JeuxCombat" />
+  <component name="RunManager" selected="Application.TestCalendar">
+    <configuration name="ComptagePaysParContinent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Maps.ComptagePaysParContinent" />
       <module name="approche-objet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fr.diginamic.combat.*" />
+          <option name="PATTERN" value="Maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ManipulationChaine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fr.diginamic.chaines.ManipulationChaine" />
+    <configuration name="MapVilles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Maps.MapVilles" />
       <module name="approche-objet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fr.diginamic.chaines.*" />
+          <option name="PATTERN" value="Maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMaison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fr.diginamic.essais.TestMaison" />
+    <configuration name="TestCalendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dates.TestCalendar" />
       <module name="approche-objet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fr.diginamic.essais.*" />
+          <option name="PATTERN" value="Dates.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMoyenne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fr.diginamic.essais.TestMoyenne" />
+    <configuration name="TestDates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dates.TestDates" />
       <module name="approche-objet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fr.diginamic.essais.*" />
+          <option name="PATTERN" value="Dates.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestTheatre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fr.diginamic.essais.TestTheatre" />
+    <configuration name="TestStringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chaines.TestStringBuilder" />
       <module name="approche-objet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fr.diginamic.essais.*" />
+          <option name="PATTERN" value="Chaines.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JeuxCombat" />
-        <item itemvalue="Application.TestMaison" />
-        <item itemvalue="Application.ManipulationChaine" />
-        <item itemvalue="Application.TestTheatre" />
-        <item itemvalue="Application.TestMoyenne" />
+        <item itemvalue="Application.TestCalendar" />
+        <item itemvalue="Application.TestDates" />
+        <item itemvalue="Application.TestStringBuilder" />
+        <item itemvalue="Application.ComptagePaysParContinent" />
+        <item itemvalue="Application.MapVilles" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +251,23 @@
       <option name="project" value="LOCAL" />
       <updated>1763366339103</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="tp3">
+      <option name="closed" value="true" />
+      <created>1763452695259</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1763452695259</updated>
+    </task>
+    <task id="LOCAL-00007" summary="tp3">
+      <option name="closed" value="true" />
+      <created>1763452702207</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1763452702207</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
